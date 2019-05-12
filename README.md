@@ -1,5 +1,11 @@
 # electron-quick-start
 
+Forked from the original [Electron quick start guide](https://github.com/electron/electron-quick-start), adds [electron-builder](https://www.npmjs.com/package/electron-builder) to make it easy to create an installer.
+
+Need to learn data wrangling? See my book [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) or blog [The Data Wrangler](http://www.the-data-wrangler.com/).
+
+Do prototyping and data analysis in JavaScript with [Data-Forge Notebook](http://www.data-forge-notebook.com/).
+
 **Clone and run for a quick way to see Electron in action.**
 
 This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
