@@ -23,7 +23,7 @@
     },
     "dependencies": {},
     "build": {
-        "asar": false,
+        "asar": true,
         "appId": "com.electron.quickstart",
         "productName": "Electron Quickstart",
         "copyright": "Copyright @ 2019 Electron",
